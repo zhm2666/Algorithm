@@ -9,11 +9,4 @@ int main(){
 }
 
 
-// #include<iostream>
 
-// int main(){
-//     int a, b;
-//     std::cin >> a >> b;  // 使用空格或回车分隔输入
-//     std::cout << a + b << std::endl;
-//     return 0;
-// }
